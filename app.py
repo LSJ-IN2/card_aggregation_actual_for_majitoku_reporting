@@ -8,7 +8,7 @@ DM_CODES = {
     "MCS056",
     "APD023",
     "GEZ039",
-    "STD002"
+    "SDT002"
 }
 
 AREA_ORDER = [
